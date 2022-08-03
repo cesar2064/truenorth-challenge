@@ -3,7 +3,7 @@
 ```bash
 $ npm install
 ```
-
+> Mongo db is required
 
 ## Running the app
 
@@ -18,7 +18,6 @@ $ npm run start:dev
 $ npm run start:prod
 ```
 
-> Mongo db is required
 > By Default the app is running on port 3000
 
 ## Config
