@@ -19,6 +19,7 @@ $ npm run start:prod
 ```
 
 > Mongo db is required
+> By Default the app is running on port 3000
 
 ## Config
 You could configure MONGO_URL in .env file from root
